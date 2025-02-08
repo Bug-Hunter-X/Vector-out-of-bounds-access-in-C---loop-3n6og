@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in C++ when iterating over a `std::vector`. The code attempts to access the 11th element of a 10-element vector, causing undefined behavior. The solution corrects the loop condition to prevent this error.
